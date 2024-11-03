@@ -1,4 +1,4 @@
-** Завдання 7: **
+Завдання 7: 
 
 
 ![image](https://github.com/user-attachments/assets/284a5294-a6a6-48eb-b280-2a747413bbfc)
